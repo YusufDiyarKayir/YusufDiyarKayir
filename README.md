@@ -11,7 +11,6 @@ Software Eng. | AI · ML · DL · NLP |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDiyarKayir&layout=compact&theme=tokyonight)
 
-
 ---
 
 ##  Projects
