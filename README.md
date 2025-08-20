@@ -58,9 +58,13 @@ Istanbul, Turkey
 
 ---
 
-##  Animated Tech Showcase
+##  GitHub Stats
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=51C5CF&center=true&width=600&lines=C%23+%7C+Python+%7C+JavaScript+%7C+HTML+%26+CSS+%7C+PyTorch+%7C+OpenCV+%7C+ASP.NET+Core)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufDiyarKayir&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDiyarKayir&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufDiyarKayir&theme=tokyonight)
 
 ---
 
