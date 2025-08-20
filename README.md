@@ -63,3 +63,20 @@ Software Eng. | AI · ML · DL · NLP |
 **Software Engineer | Beykoz University** | 09/2022 – 06/2026  
 
 ---
+## Projects
+
+### Fitness-System
+C# Windows Forum Apps
+
+### PERDITA-
+A story-driven 2D platformer game built with Python
+
+### SmartRouteAI
+AI destekli geli�mi� rota planlama sistemi
+
+### YKY-Fasion
+No description
+
+### YusufDiyarKayir
+No description
+
