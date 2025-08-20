@@ -7,11 +7,7 @@
 
 ##  GitHub Stats
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufDiyarKayir&show_icons=true&theme=tokyonight&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDiyarKayir&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufDiyarKayir&theme=tokyonight)
 
 ---
 
