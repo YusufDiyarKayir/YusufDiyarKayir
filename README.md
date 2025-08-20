@@ -7,27 +7,13 @@ Istanbul, Turkey
 
 ---
 
-## Skills
+##  GitHub Stats
 
-**Programming & Backend:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufDiyarKayir&show_icons=true&theme=tokyonight&count_private=true)
 
-**Database & Data Management:**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDiyarKayir&layout=compact&theme=tokyonight)
 
-**Machine Learning & AI:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![MediaPipe](https://img.shields.io/badge/MediaPipe-2D2D2D?style=for-the-badge&logo=google&logoColor=white)  
-
-**Web & Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufDiyarKayir&theme=tokyonight)
 
 ---
 
@@ -52,19 +38,33 @@ Istanbul, Turkey
 
 ---
 
-## Education
+## Skills
 
-**Software Engineer | Beykoz University** | 09/2022 – 06/2026  
+**Programming & Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Database & Data Management:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Machine Learning & AI:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2D2D2D?style=for-the-badge&logo=google&logoColor=white)  
+
+**Web & Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-##  GitHub Stats
+## Education
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufDiyarKayir&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDiyarKayir&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufDiyarKayir&theme=tokyonight)
+**Software Engineer | Beykoz University** | 09/2022 – 06/2026  
 
 ---
 
