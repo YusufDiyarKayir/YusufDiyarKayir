@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YusufDiyarKayir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufdiyarkayır)
 
-Istanbul, Turkey  
-
 ---
 
 ##  GitHub Stats
@@ -23,9 +21,9 @@ Istanbul, Turkey
 **AI-powered system for logistics and route optimization**  
 - Backend: ASP.NET Core (RESTful API, maps & external integrations)  
 - Machine Learning: Python for traffic & weather prediction  
-- Integrations: Google Maps API, OpenWeather API, Official Holidays  
+- Integrations: Google Maps API, OpenWeather API, Azure Cognitive
 
-### Face Analysis & Rehabilitation System
+### Mirror Therapy System
 **Real-time face analysis & AI-assisted medical rehabilitation**  
 - Face Analysis: MediaPipe, OpenCV  
 - Machine Learning: PyTorch, low-latency video processing  
@@ -67,9 +65,3 @@ Istanbul, Turkey
 **Software Engineer | Beykoz University** | 09/2022 – 06/2026  
 
 ---
-
-##  Contact
-
-- [GitHub](https://github.com/YusufDiyarKayir)  
-- [LinkedIn](https://www.linkedin.com/in/yusufdiyarkayır)  
-- Email: yusufdkayir@gmail.com
