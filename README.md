@@ -1,15 +1,10 @@
-# Yusuf Diyar Kayır - Software Eng. 
-
+# Yusuf Diyar Kayır - Software Eng.
+<img src="profile.jpg" alt="Yusuf Diyar Kayır" width="120" align="right" style="border-radius:50%;" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YusufDiyarKayir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufdiyarkayır)
 
 Software Eng. | AI · ML · DL · NLP |
-<div align="right">
-  <img src="Vesika.jpeg" alt="Yusuf Diyar Kayır" width="200" style="border-radius:50%; margin-top:10px;" />
-</div>
-
-
 ---
 
 ##  GitHub Stats
