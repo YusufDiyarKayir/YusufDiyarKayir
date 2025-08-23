@@ -1,5 +1,9 @@
 # Yusuf Diyar Kayır - Software Eng.
-<img src="Vesika.jpeg" alt="Yusuf Diyar Kayır" width="120" align="right" style="border-radius:50%;" />
+<div align="right">
+  <img src="Vesika.jpeg" alt="Yusuf Diyar Kayır" width="180" 
+       style="border-radius:50%; border:5px solid black; padding:5px; background-color:black;" />
+</div>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YusufDiyarKayir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufdiyarkayır)
