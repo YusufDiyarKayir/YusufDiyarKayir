@@ -1,8 +1,8 @@
 # Yusuf Diyar Kayır - Software Eng.
 <div align="right">
   <img src="Vesika.jpeg" alt="Yusuf Diyar Kayır" 
-       width="180" height="180"
-       style="border-radius:50%; border:5px solid black; object-fit:cover;" />
+       width="150" height="150"
+       style="border-radius: 50%; border: 4px solid #000000; object-fit: cover; margin-bottom: 20px;" />
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YusufDiyarKayir)
